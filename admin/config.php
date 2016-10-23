@@ -1,5 +1,5 @@
 <?php
-// HTTP
+// HTTPs
 define('HTTP_SERVER', 'http://localhost/projects/food/admin/');
 define('HTTP_CATALOG', 'http://localhost/projects/food/');
 
