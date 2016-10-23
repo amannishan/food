@@ -1,5 +1,5 @@
 <?php
-// HTTP
+// HTTP request
 define('HTTP_SERVER', 'http://localhost/projects/food/');
 
 // HTTPS
